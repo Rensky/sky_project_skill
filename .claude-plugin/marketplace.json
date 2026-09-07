@@ -1,0 +1,13 @@
+{
+  "name": "sky-project-skill",
+  "owner": {
+    "name": "Sky Ren"
+  },
+  "plugins": [
+    {
+      "name": "figma-campaign-slicing",
+      "source": "./plugins/figma-campaign-slicing",
+      "description": "銀行活動頁照 Figma 切版/改版的完整工作流程(靜態 HTML + SCSS + Prepros 專案)"
+    }
+  ]
+}
