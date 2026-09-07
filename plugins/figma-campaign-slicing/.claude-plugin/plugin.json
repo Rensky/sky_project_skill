@@ -1,7 +1,7 @@
 {
   "name": "figma-campaign-slicing",
-  "version": "1.0.0",
-  "description": "銀行活動頁照 Figma 切版/改版的完整工作流程:逐 section 實作、差異表確認、OLD 註解改法、瀏覽器驗證、meta/追蹤碼埋設、壓圖收尾。適用富邦/永豐等共用 boilerplate 的靜態 HTML + SCSS + Prepros 專案。",
+  "version": "1.1.0",
+  "description": "銀行活動頁照 Figma 切版/改版的完整工作流程(問答引導式):開場收集連結與素材、section 拆分計畫、逐 section 實作與差異表確認、OLD 註解改法、瀏覽器驗證、meta/追蹤碼埋設、壓圖收尾。適用富邦/永豐等共用 boilerplate 的靜態 HTML + SCSS + Prepros 專案。",
   "author": {
     "name": "Sky Ren"
   }
