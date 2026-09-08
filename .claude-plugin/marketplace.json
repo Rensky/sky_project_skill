@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "figma-campaign-slicing",
-      "source": "./plugins/figma-campaign-slicing",
+      "name": "super-sky",
+      "source": "./plugins/super-sky",
       "description": "銀行活動頁照 Figma 切版/改版的完整工作流程(靜態 HTML + SCSS + Prepros 專案)"
     }
   ]

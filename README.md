@@ -8,12 +8,12 @@
 
 ```
 /plugin marketplace add Rensky/sky_project_skill
-/plugin install figma-campaign-slicing@sky-project-skill
+/plugin install super-sky@sky-project-skill
 ```
 
 (repo 是 private 的話,你的 git 憑證要有這個 repo 的讀取權限。也可以先 `git clone` 下來,再 `/plugin marketplace add <本機路徑>` 安裝,效果相同,但更新要自己 pull。)
 
-裝完不用背指令 —— 對 Claude 講「照 Figma 切版」「改版活動頁」就會自動進入流程。
+裝完後輸入 `/super-sky` 直接啟動流程;或自然地講「照 Figma 切版」「改版活動頁」也會自動觸發。
 
 ## 前置需求
 
@@ -54,9 +54,9 @@ git 全程自己 commit,Claude 不碰。
 ```
 sky_project_skill/
 ├── .claude-plugin/marketplace.json      # marketplace 定義
-├── plugins/figma-campaign-slicing/
+├── plugins/super-sky/
 │   ├── .claude-plugin/plugin.json       # plugin 定義
-│   └── skills/figma-campaign-slicing/
+│   └── skills/super-sky/
 │       ├── SKILL.md                     # 流程本體(慣例、踩坑、驗證方法都在這)
 │       └── scripts/
 │           ├── compress-images.sh       # 圖片壓縮(oxipng/pngquant/TinyPNG)

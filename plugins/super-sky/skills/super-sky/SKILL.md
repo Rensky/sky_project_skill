@@ -1,5 +1,5 @@
 ---
-name: figma-campaign-slicing
+name: super-sky
 description: 銀行活動頁(landing page)照 Figma 切版/改版的完整工作流程,適用富邦、永豐等各銀行客戶共用 boilerplate 的靜態 HTML + SCSS + Prepros 專案。以問答方式引導整個專案:開場收集 Figma 連結與素材、提出 section 拆分計畫、逐 section 實作、埋 meta、壓圖收尾。當使用者提到「切版」「改版」「活動頁」「landing page」「改 XX section」、貼 Figma 連結要求實作或修改頁面、丟 meta 資料表或追蹤碼文件要求埋設、或說「收尾」「定稿」「壓圖」時,務必使用此 skill,即使使用者沒有明講要照什麼流程。
 ---
 
